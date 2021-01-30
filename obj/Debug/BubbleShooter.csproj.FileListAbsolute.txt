@@ -1,0 +1,45 @@
+D:\Course\BS-V\VP\CSharp\SemesterProject\BubbleShooter\BubbleShooter\bin\Debug\BubbleShooter.exe.config
+D:\Course\BS-V\VP\CSharp\SemesterProject\BubbleShooter\BubbleShooter\bin\Debug\BubbleShooter.exe
+D:\Course\BS-V\VP\CSharp\SemesterProject\BubbleShooter\BubbleShooter\bin\Debug\BubbleShooter.pdb
+D:\Course\BS-V\VP\CSharp\SemesterProject\BubbleShooter\BubbleShooter\obj\Debug\BubbleShooter.csprojResolveAssemblyReference.cache
+D:\Course\BS-V\VP\CSharp\SemesterProject\BubbleShooter\BubbleShooter\obj\Debug\BubbleShooter.Form1.resources
+D:\Course\BS-V\VP\CSharp\SemesterProject\BubbleShooter\BubbleShooter\obj\Debug\BubbleShooter.Properties.Resources.resources
+D:\Course\BS-V\VP\CSharp\SemesterProject\BubbleShooter\BubbleShooter\obj\Debug\BubbleShooter.csproj.GenerateResource.Cache
+D:\Course\BS-V\VP\CSharp\SemesterProject\BubbleShooter\BubbleShooter\obj\Debug\BubbleShooter.csproj.CoreCompileInputs.cache
+D:\Course\BS-V\VP\CSharp\SemesterProject\BubbleShooter\BubbleShooter\obj\Debug\BubbleShooter.exe
+D:\Course\BS-V\VP\CSharp\SemesterProject\BubbleShooter\BubbleShooter\obj\Debug\BubbleShooter.pdb
+E:\C Sharp\BubbleShooter\bin\Debug\BubbleShooter.exe.config
+E:\C Sharp\BubbleShooter\obj\Debug\BubbleShooter.exe
+E:\C Sharp\BubbleShooter\obj\Debug\BubbleShooter.pdb
+E:\C Sharp\BubbleShooter\bin\Debug\BubbleShooter.exe
+E:\C Sharp\BubbleShooter\bin\Debug\BubbleShooter.pdb
+E:\C Sharp\BubbleShooter\bin\Debug\mscorlib.dll
+E:\C Sharp\BubbleShooter\bin\Debug\normidna.nlp
+E:\C Sharp\BubbleShooter\bin\Debug\normnfc.nlp
+E:\C Sharp\BubbleShooter\bin\Debug\normnfd.nlp
+E:\C Sharp\BubbleShooter\bin\Debug\normnfkc.nlp
+E:\C Sharp\BubbleShooter\bin\Debug\normnfkd.nlp
+E:\C Sharp\BubbleShooter\obj\Debug\BubbleShooter.csprojResolveAssemblyReference.cache
+E:\C Sharp\BubbleShooter\obj\Debug\BubbleShooter.Form1.resources
+E:\C Sharp\BubbleShooter\obj\Debug\BubbleShooter.Properties.Resources.resources
+E:\C Sharp\BubbleShooter\obj\Debug\BubbleShooter.csproj.GenerateResource.Cache
+H:\BubbleShooter\bin\Debug\BubbleShooter.exe.config
+H:\BubbleShooter\obj\Debug\BubbleShooter.exe
+H:\BubbleShooter\obj\Debug\BubbleShooter.pdb
+H:\BubbleShooter\bin\Debug\BubbleShooter.exe
+H:\BubbleShooter\bin\Debug\BubbleShooter.pdb
+H:\BubbleShooter\obj\Debug\BubbleShooter.csprojResolveAssemblyReference.cache
+H:\BubbleShooter\obj\Debug\BubbleShooter.Form1.resources
+H:\BubbleShooter\obj\Debug\BubbleShooter.Properties.Resources.resources
+H:\BubbleShooter\obj\Debug\BubbleShooter.csproj.GenerateResource.Cache
+D:\Course\BS-V\VP\BubbleShooter\bin\Debug\BubbleShooter.exe.config
+D:\Course\BS-V\VP\BubbleShooter\obj\Debug\BubbleShooter.exe
+D:\Course\BS-V\VP\BubbleShooter\obj\Debug\BubbleShooter.pdb
+D:\Course\BS-V\VP\BubbleShooter\bin\Debug\BubbleShooter.exe
+D:\Course\BS-V\VP\BubbleShooter\bin\Debug\BubbleShooter.pdb
+D:\Course\BS-V\VP\BubbleShooter\obj\Debug\BubbleShooter.csprojResolveAssemblyReference.cache
+D:\Course\BS-V\VP\BubbleShooter\obj\Debug\BubbleShooter.Properties.Resources.resources
+D:\Course\BS-V\VP\BubbleShooter\obj\Debug\BubbleShooter.csproj.GenerateResource.Cache
+D:\Course\BS-V\VP\BubbleShooter\obj\Debug\BubbleShooter.frmBubbbleShooter.resources
+D:\Course\BS-V\VP\BubbleShooter\obj\Debug\BubbleShooter.PlayForm.resources
+D:\Course\BS-V\VP\BubbleShooter\obj\Debug\BubbleShooter.csproj.CoreCompileInputs.cache
